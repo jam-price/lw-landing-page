@@ -1,0 +1,9 @@
+.footer {
+    background-color: rgb(51, 46, 47);
+    height: 200px;
+}
+
+.footer h3 {
+    color: rgb(226, 226, 226);
+    padding-top: 40px;
+}

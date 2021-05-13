@@ -1,0 +1,57 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Roboto&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('./components/banner.css');
+@import url('./components/container.css');
+@import url('./components/btn.css');
+@import url('./components/avatar.css');
+@import url('./components/card.css');
+@import url('./components/card-container.css');
+@import url('./components/footer.css');
+@import url('./components/socials.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+  text-align: center;
+  background-color: rgb(236, 236, 236);
+}
+
+h1, h2, h3, h4 {
+  font-family: Lobster Two, cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Custom design below! */
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  margin: 50px;
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.red {
+  color: red;
+}
+.yellow {
+  color: yellow;
+}
+.blue {
+  color: blue;
+}

@@ -1,0 +1,13 @@
+.container {
+    max-width: 500px;
+    margin-left: auto;
+    padding-top: 170px;
+    padding-right: 100px;
+}
+
+.container > div {
+    background-color: rgba(240, 240, 240, 0.466);
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0px 0px 50px rgb(175, 175, 175);
+}

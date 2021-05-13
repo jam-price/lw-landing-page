@@ -1,0 +1,9 @@
+.banner {
+    height: 80vh;
+    color: white;
+    background-size: cover;
+}
+
+.banner h1 {
+    margin: 0;
+}
